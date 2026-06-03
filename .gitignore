@@ -1,0 +1,9 @@
+﻿.idea/
+data/
+node_modules/
+.expo/
+*.mv.db
+*.trace.db
+*.log
+.DS_Store
+Thumbs.db
